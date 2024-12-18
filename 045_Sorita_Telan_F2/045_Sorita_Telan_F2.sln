@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "045_Sorita_Telan_F2", "045_Sorita_Telan_F2\045_Sorita_Telan_F2.csproj", "{3B535AEB-FC41-43ED-BBA7-1FC3FFB25B7E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B535AEB-FC41-43ED-BBA7-1FC3FFB25B7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B535AEB-FC41-43ED-BBA7-1FC3FFB25B7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B535AEB-FC41-43ED-BBA7-1FC3FFB25B7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B535AEB-FC41-43ED-BBA7-1FC3FFB25B7E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {920157AA-2F3E-43DB-88E0-5CD1C207B0D0}
+	EndGlobalSection
+EndGlobal
